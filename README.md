@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is **Abighail Shafira Ihsani**.  
+
+I'm a student of Computer Science at Universitas Pendidikan Indonesia.\
+How to reach me : [Linkedin](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
