@@ -26,11 +26,7 @@ I'm a student of Computer Science at Universitas Pendidikan Indonesia.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abighailshafira&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-#### Certifications
-- [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/NVP71Y72WPR0)
-- [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/0LZ031EORZ65)
-
 #### 🤝🏻 Connect with Me
-<a href = "https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/abighail-shafira-ihsani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/abighailshafira/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/abighailshafira/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
